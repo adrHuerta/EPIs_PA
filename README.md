@@ -7,7 +7,7 @@ Precipitation extremes have been investigated throughout the last decades in dif
 
 ### Code
 
-This represents my first attempt of code in my early years with R (~2014-2015). At that time, my code style was not so good (it is obvious just by looking at the code :D). However, I did perform many analyses. The code is divided into two folders: datos_originales (where is established the observed dataset y figure 1) and data_NDEFMA (where the paper and the rest of the figures are done). The most valuable script could be the [functions of EPIs](https://github.com/adrHuerta/EPIs_PA/blob/master/data_NDEFMA/functions/funciones_indices_extremos_pp_v3_06092015.R). In those years, there was not any available package in that topic, but now I would recommend: [ClimIndVis](https://github.com/Climandes/ClimIndVis/), [climdex.pcic](https://github.com/pacificclimate/climdex.pcic/), and many others.
+This represents my first attempt of code in my early years with R (~2014-2015). At that time, my code style was not so good (it is obvious just by looking at the code :D). However, I did perform many analyses. The code is divided into two folders: datos_originales (where is established the observed dataset y figure 1) and data_NDEFMA (where the paper and the rest of the figures are done). The most valuable script could be the [EPIs](https://github.com/adrHuerta/EPIs_PA/blob/master/Code/data_NDEFMA/functions/funciones_indices_extremos_pp_v3_06092015.R). In those years, there was not any available package in that topic, but now I would recommend: [ClimIndVis](https://github.com/Climandes/ClimIndVis/), [climdex.pcic](https://github.com/pacificclimate/climdex.pcic/), and many others.
 
 ### Reference
 
