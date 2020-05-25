@@ -19,4 +19,4 @@ This represents my first attempt of code in my early years with R (~2014-2015). 
 
 ### Reference
 
-Huerta, A. & Lavado-Casimiro, W. S. (2020). Trends and variability of precipitation extremes in the Peruvian Altiplano (1971–2013). International Journal of Climatology.
+Huerta, A, Lavado‐Casimiro, W. Trends and variability of precipitation extremes in the Peruvian Altiplano (1971–2013). International Journal of Climatology. 2020; 1–16.[https://doi.org/10.1002/joc.6635](https://doi.org/10.1002/joc.6635).
